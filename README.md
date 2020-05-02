@@ -1,3 +1,2 @@
 # Guessnumber
-
-yzhou77.github.io/Guessnumber/
+[Link](http://yzhou77.github.io/Guessnumber/)
